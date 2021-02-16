@@ -6,7 +6,7 @@
 
 <body>
 	<h1>Sorry, your feedback could not be submitted at this time</h1>
-	Login<form action="feedback.jsp">
+	<form action="feedback.jsp">
 	    <input type="submit" value="other feedback"/>
 	</form>
 
