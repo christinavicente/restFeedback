@@ -6,7 +6,7 @@
 
 <body>
 	<h1>Successfully Saved Feedback</h1>
-	Login<form action="feedback.jsp">
+	<form action="feedback.jsp">
     	    <input type="submit" value="other feedback"/>
     	</form>
 
